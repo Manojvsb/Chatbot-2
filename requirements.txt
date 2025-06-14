@@ -1,0 +1,10 @@
+streamlit
+requests
+faiss-cpu
+python-dotenv
+langchain
+langchain-community
+langchain-ai21
+langchain-groq
+unstructured
+serpapi
